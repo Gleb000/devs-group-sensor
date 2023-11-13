@@ -1,0 +1,7 @@
+server:
+  port: ${SERVER_PORT:8080}
+
+sensor:
+  name: ${SENSOR_NAME:Sensor}
+  server:
+    url: ${SERVER_URL:http://localhost:8081}
