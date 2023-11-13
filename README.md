@@ -29,3 +29,7 @@ SERVER_PORT=8083;SENSOR_NAME=Sensor_2
 ```
 
 and so on
+
+## Spent time on sensor application development
+1h-1.5h - implementation;<br>
+20m - manual testing and bugs fixing.
